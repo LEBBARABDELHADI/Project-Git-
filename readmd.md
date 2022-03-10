@@ -1,2 +1,4 @@
 Salut les gens
-fixes applied
+fixes applied 
+fixes issue nbr 1
+
